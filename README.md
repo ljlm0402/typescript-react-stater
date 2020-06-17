@@ -1,6 +1,6 @@
 <img src='https://github.com/ljlm0402/typescript-react-starter/raw/images/logo.jpg' border='0' alt='logo' />
 
-[React](https://reactjs-kr.firebaseapp.com/) with [TypeScript's](https://www.npmjs.com/package/typescript) application generator.
+[React](https://reactjs.org/) with [TypeScript's](https://www.npmjs.com/package/typescript) application generator.
 
 <a href="https://www.npmjs.com/package/typescript-react-starter" target="_blank"><img src="https://img.shields.io/npm/v/typescript-react-starter.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/package/typescript-react-starter" target="_blank"><img src="https://img.shields.io/npm/l/typescript-react-starter.svg" alt="Package License" /></a>
@@ -51,8 +51,17 @@ $ cd "project name" && npm run start
 - Run all unit-tests: `npm run test`.
 - Check for linting errors: `npm run lint`.
 
+## 📬 Recommended Commit Message
+
+|  When |  Commit Message  |
+|:--------|:-----------|
+| Add function | feat: ⚡️ Add function |
+| Fix bug | fix: 🐞 Fix bug |
+| Refactoring | refactor: 🛠 Refactoring |
+| Add package | package: 📦 Add package |
+| Fix readme | docs: 📚 Fix readme |
+| Improvements style | style: 👁 Improvements style |
+
 ## 💳 License
 
 [MIT](LICENSE)
-
-## 🤝 Contributors
